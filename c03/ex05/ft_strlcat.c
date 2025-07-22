@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strlcat.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: clumertz <clumertz@student.42porto.com     +#+  +:+       +#+        */
+/*   By: clumertz <clumertz@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/27 17:01:18 by clumertz          #+#    #+#             */
-/*   Updated: 2025/03/01 11:39:11 by clumertz         ###   ########.fr       */
+/*   Updated: 2025/07/21 22:28:47 by clumertz         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -37,7 +37,7 @@ unsigned int	ft_strlcat(char *dest, char *src, unsigned int size)
 		return (ns + size);
 	return (nd + ns);
 }
-
+/*
 #include <stdlib.h>
 #include <stdio.h>
 #include <bsd/string.h>
@@ -59,3 +59,4 @@ int	main(int argc, char *argv[])
 	printf("%s\n", buffer2);
 	printf("%d\n", y);
 }
+*/

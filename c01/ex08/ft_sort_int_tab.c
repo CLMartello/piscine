@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_sort_int_tab.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: clumertz <clumertz@student.42porto.com     +#+  +:+       +#+        */
+/*   By: clumertz <clumertz@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/25 13:37:03 by clumertz          #+#    #+#             */
-/*   Updated: 2025/03/02 17:37:47 by clumertz         ###   ########.fr       */
+/*   Updated: 2025/07/21 22:25:32 by clumertz         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -36,7 +36,7 @@ void	ft_sort_int_tab(int *tab, int size)
 		b = a + 1;
 	}
 }
-
+/*
 #include <stdio.h>
 
 int	main(void)
@@ -51,4 +51,4 @@ int	main(void)
 		printf("%d\n", tab[n]);
 		n++;
 	}
-}
+}*/

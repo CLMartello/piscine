@@ -6,7 +6,7 @@
 /*   By: clumertz <clumertz@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/01 09:06:16 by clumertz          #+#    #+#             */
-/*   Updated: 2025/03/08 10:53:55 by clumertz         ###   ########.fr       */
+/*   Updated: 2025/07/21 22:30:25 by clumertz         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -41,7 +41,7 @@ void	ft_putnbr(int nb)
 		ft_putchar(nb + '0');
 	}
 }
-
+/*
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -52,3 +52,4 @@ int	main(int argc, char *argv[])
 	ft_putnbr(atoi(argv[1]));
 	return (0);
 }
+*/

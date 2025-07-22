@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_ft.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: clumertz <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: clumertz <clumertz@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/20 18:28:08 by clumertz          #+#    #+#             */
-/*   Updated: 2025/02/23 12:07:47 by clumertz         ###   ########.fr       */
+/*   Updated: 2025/07/21 22:18:03 by clumertz         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@ void	ft_ft(int *nbr)
 	*nbr = 42;
 }
 
-
+/*
 #include <stdio.h>
 
 int	main(void)
@@ -27,4 +27,4 @@ int	main(void)
 	ft_ft(&b);
 	printf("%d", b);
 }
-
+*/

@@ -6,7 +6,7 @@
 /*   By: clumertz <clumertz@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/26 09:51:40 by clumertz          #+#    #+#             */
-/*   Updated: 2025/03/01 11:24:35 by clumertz         ###   ########.fr       */
+/*   Updated: 2025/07/21 22:28:23 by clumertz         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -31,7 +31,7 @@ char	*ft_strncat(char *dest, char *src, unsigned int nb)
 	dest[sd + i] = '\0';
 	return (dest);
 }
-
+/*
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -49,3 +49,4 @@ int    main(int argc, char *argv[])
 	char *y = strncat(buffer2, argv[1], atoi(argv[2]));
 	printf("%s\n", y);
 }
+*/

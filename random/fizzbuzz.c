@@ -6,17 +6,9 @@
 /*   By: clumertz <clumertz@student.42porto.com     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/02 12:10:36 by clumertz          #+#    #+#             */
-/*   Updated: 2025/03/07 00:34:22 by clumertz         ###   ########.fr       */
+/*   Updated: 2025/07/22 19:42:39 by clumertz         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-/*
-FizzBuzz:
-FizzBuzz imprime se n eh divisivel por 3 e divisivel por 5;
-Fizz imprime se n eh divisivel por 3;
-Buzz imprime se n eh divisivel por 5;
-Se n nao for divisivel nem por 3 e nem por 5, imprime o n;
-O n soh esta entre o intervalo de 1 e 100.
-*/
 
 #include <unistd.h>
 

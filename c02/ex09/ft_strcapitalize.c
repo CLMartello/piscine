@@ -6,7 +6,7 @@
 /*   By: clumertz <clumertz@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/08 14:16:12 by clumertz          #+#    #+#             */
-/*   Updated: 2025/03/08 16:32:25 by clumertz         ###   ########.fr       */
+/*   Updated: 2025/07/21 22:27:23 by clumertz         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -55,7 +55,7 @@ char	*ft_strcapitalize(char *str)
 	}
 	return (str);
 }
-
+/*
 #include <stdio.h>
 
 int	main(int argc, char *argv[])
@@ -65,4 +65,4 @@ int	main(int argc, char *argv[])
 	printf("%s\n", argv[1]);
 	ft_strcapitalize(argv[1]);
 	printf("%s\n", argv[1]);
-}
+}*/

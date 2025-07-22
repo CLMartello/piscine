@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strstr.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: clumertz <clumertz@student.42porto.com     +#+  +:+       +#+        */
+/*   By: clumertz <clumertz@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/27 20:13:13 by clumertz          #+#    #+#             */
-/*   Updated: 2025/03/01 18:01:16 by clumertz         ###   ########.fr       */
+/*   Updated: 2025/07/21 22:28:34 by clumertz         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -34,7 +34,7 @@ char	*ft_strstr(char *str, char *to_find)
 	}
 	return (0);
 }
-
+/*
 #include <stdio.h>      
 #include <unistd.h>
 #include <string.h>
@@ -50,3 +50,4 @@ int    main(int argc, char *argv[])
 	char *y = strstr(argv[1], argv[2]);
 	printf("Resultado funcao: %s\n", y);
 }
+*/

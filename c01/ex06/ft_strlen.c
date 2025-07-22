@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strlen.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: clumertz <clumertz@student.42porto.co      +#+  +:+       +#+        */
+/*   By: clumertz <clumertz@student.42porto.com>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/22 20:46:47 by clumertz          #+#    #+#             */
-/*   Updated: 2025/02/23 12:11:39 by clumertz         ###   ########.fr       */
+/*   Updated: 2025/07/21 22:20:06 by clumertz         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,7 +25,7 @@ int	ft_strlen(char *str)
 	return (n);
 }
 
-
+/*
 #include <stdio.h>
 
 int	main(void)
@@ -35,5 +35,4 @@ int	main(void)
         printf("%d\n", ft_strlen("testando com espaco"));
         printf("%d\n", ft_strlen("shdsu34834hn333"));
 	return (0);
-}
-
+}*/
